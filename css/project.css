@@ -1,0 +1,72 @@
+.container {
+  background-color: hsl(217, 54%, 11%);
+  height: 500px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img-equilb {
+  height: 200px;
+  width: 400;
+  border-radius: 3px;
+}
+
+.input-div {
+  background-color: hsl(216, 50%, 16%);
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h3 {
+  color: #fff;
+}
+
+.one-p {
+  color: hsl(215, 20%, 48%);
+  font-size: 12px;
+}
+
+.second-p {
+  color: hsl(178, 100%, 50%);
+  font-size: 11px;
+}
+
+.third-p {
+  color: hsl(215, 20%, 48%);
+  font-size: 10px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.my-photo {
+  height: 20px;
+  border-radius: 50px;
+}
+
+.bottom p {
+  color: hsl(215, 20%, 48%);
+  font-size: 10px;
+  margin-right: 75px;
+}
+
+.bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+b {
+  color: white;
+}
